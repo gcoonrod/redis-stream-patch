@@ -1,0 +1,23 @@
+{
+  "name": "redis-stream-patch",
+  "version": "1.0.0",
+  "description": "A terrible hack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcoonrod/redis-stream-patch.git"
+  },
+  "author": "greg.coonrod@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcoonrod/redis-stream-patch/issues"
+  },
+  "homepage": "https://github.com/gcoonrod/redis-stream-patch#readme",
+  "dependencies": {
+    "redis": "^0.12.1",
+    "redis-scanstreams": "^1.0.3"
+  }
+}
